@@ -1,0 +1,8 @@
+C:\Users\Samet CAN\Documents\SharpDevelop Projects\yeterbeadc\yeterbeadc\bin\Debug\yeterbeadc.exe.config
+C:\Users\Samet CAN\Documents\SharpDevelop Projects\yeterbeadc\yeterbeadc\bin\Debug\yeterbeadc.exe
+C:\Users\Samet CAN\Documents\SharpDevelop Projects\yeterbeadc\yeterbeadc\bin\Debug\yeterbeadc.pdb
+C:\Users\Samet CAN\Documents\SharpDevelop Projects\yeterbeadc\yeterbeadc\obj\Debug\yeterbeadc.csprojResolveAssemblyReference.cache
+C:\Users\Samet CAN\Documents\SharpDevelop Projects\yeterbeadc\yeterbeadc\obj\Debug\yeterbeadc.MainForm.resources
+C:\Users\Samet CAN\Documents\SharpDevelop Projects\yeterbeadc\yeterbeadc\obj\Debug\yeterbeadc.csproj.GenerateResource.Cache
+C:\Users\Samet CAN\Documents\SharpDevelop Projects\yeterbeadc\yeterbeadc\obj\Debug\yeterbeadc.exe
+C:\Users\Samet CAN\Documents\SharpDevelop Projects\yeterbeadc\yeterbeadc\obj\Debug\yeterbeadc.pdb
